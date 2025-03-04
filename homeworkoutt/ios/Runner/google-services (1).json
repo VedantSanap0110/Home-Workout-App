@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744798831168",
+    "project_id": "mpllab-5d4f3",
+    "storage_bucket": "mpllab-5d4f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744798831168:android:d4bbaf49d701f7528a15a5",
+        "android_client_info": {
+          "package_name": "com.example.homeworkoutt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAouEPwTkNQ8IzPsZmRwAGvjmus-7pYiSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
